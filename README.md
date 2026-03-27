@@ -23,12 +23,12 @@ This is a simple console-based bus reservation system built using Java and MySQL
 
 ## Project Structure
 BusReserv/
-├── BusDemo.java # Application entry point
-├── Bus.java # Bus model class
-├── Booking.java # Booking logic and input handling
-├── BusDao.java # Bus-related database operations
-├── BookingDao.java # Booking-related database operations
-├── DbConnection.java # Database connection configuration
+├── BusDemo.java # Application entry point <br>
+├── Bus.java # Bus model class <br>
+├── Booking.java # Booking logic and input handling <br>
+├── BusDao.java # Bus-related database operations <br>
+├── BookingDao.java # Booking-related database operations <br>
+├── DbConnection.java # Database connection configuration <br>
 
 ---
 
